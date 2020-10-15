@@ -1,6 +1,6 @@
 {
-  "appId": "com.jamesonsaunders.houstonzoo",
-  "appName": "Houston Zoo",
+  "appId": "com.theartshopbrand.theartshop",
+  "appName": "the Art Shop Brand",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
